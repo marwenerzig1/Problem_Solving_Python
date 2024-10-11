@@ -15,7 +15,7 @@ for i in range(10):
     print(res)
 
     num1=num2
-    num2=res
+    num2=res 
 
 
 
